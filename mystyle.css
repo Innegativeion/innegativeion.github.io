@@ -7,7 +7,8 @@ body
 }
 
 img.header {
-    position: absolute;
+    max-width: 100vw;
+	position: absolute;
 	position: fixed;
     left: 0px;
     top: 0px;
@@ -55,6 +56,7 @@ p.format2
 
 p.format3
 {
+	
 	font-size: 1.3em;
 	margin-left: 5px;
 	margin-right: 280px;
@@ -72,7 +74,7 @@ div.floated
 div.format
 {
 float: right;
-margin: 0px 400px 0px 0px;
+margin: 0px 21vw 0px 0px;
 }
 table.format
 {
@@ -102,12 +104,12 @@ div.showcase-entry a:hover img.thumbnail {
 	border: 5px solid #d30a25;
 }
 p.ex1 {
-    margin: 0px 15px 0px 0px;
+    margin: 0px .78vw 0px 0px;
 }
 
 p.ex {
  
-    width: 400px;
+    max-width: 400px;
 }
 
 
