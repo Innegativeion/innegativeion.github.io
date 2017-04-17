@@ -16,6 +16,9 @@ body
 @media (max-width: 1600px) {
   body { font-size: 0.833333333em; }
 }
+@media (max-width: 1440px) {
+  body { font-size: 0.75em; }
+}
 @media (max-width: 720px) {
   body { font-size: 0.375em; }
 }
