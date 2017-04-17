@@ -1,0 +1,113 @@
+body
+{
+	background-color:rgb(40,40,40);
+	color:rgb(255,255,255)
+	background-image: url("pictures/backdrop.png");
+	
+}
+
+img.header {
+    position: absolute;
+	position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+a:link
+{
+	color: #d30a25;
+}
+
+a:visited
+{
+	color: #d30a25;
+}
+
+.centerImage
+{
+text-align: center;
+display: block;
+}
+
+.tab 
+{ 
+margin-left: 40px; 
+}
+
+p.format
+{
+ font-size: 1.3em;
+ margin-left: 5px;
+ display: inline-block;
+ float: left;
+}
+p.format2
+{
+	max-width: 840px;
+	font-size: 1.2 em;
+	margin-right: 50px;
+	display: inline-block;
+	float: right;
+}
+
+p.format3
+{
+	font-size: 1.3em;
+	margin-left: 5px;
+	margin-right: 280px;
+	display: inline-block;
+	float: right;
+}
+
+div.floated
+{
+    float: right;
+	margin-right: 140px;
+}
+
+
+div.format
+{
+float: right;
+margin: 0px 400px 0px 0px;
+}
+table.format
+{
+float: right;
+margin: 0px 80px 0px 0px;
+}
+}
+.clearfix{
+    clear:both
+}
+
+body {
+		color: white;
+	}
+div.showcase-entry img.thumbnail {
+	display: block;
+	max-width: 296px;
+	margin: 0 auto 0 auto;
+
+	border: 5px solid transparent;
+	
+
+	transition: border-color 0.15s linear;
+	
+}
+div.showcase-entry a:hover img.thumbnail {
+	border: 5px solid #d30a25;
+}
+p.ex1 {
+    margin: 0px 15px 0px 0px;
+}
+
+p.ex {
+ 
+    width: 400px;
+}
+
+
