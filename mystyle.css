@@ -57,21 +57,21 @@ display: block;
 
 .tab 
 { 
-margin-left: 40px; 
+margin-left: 2.083vw; 
 }
 
 p.format
 {
  font-size: 1.3em;
- margin-left: 5px;
+ margin-left: .2604vw;
  display: inline-block;
  float: left;
 }
 p.format2
 {
-	max-width: 840px;
+	max-width: 43.75vw;
 	font-size: 1.2 em;
-	margin-right: 50px;
+	margin-right: 1.5625vw;
 	display: inline-block;
 	float: right;
 }
@@ -80,8 +80,8 @@ p.format3
 {
 	
 	font-size: 1.3em;
-	margin-left: 5px;
-	margin-right: 280px;
+	margin-left: .2604vw;
+	margin-right: 14.5833vw;
 	display: inline-block;
 	float: right;
 }
@@ -89,7 +89,7 @@ p.format3
 div.floated
 {
     float: right;
-	margin-right: 140px;
+	margin-right: 7.2916vw;
 }
 
 
@@ -101,7 +101,7 @@ margin: 0px 21vw 0px 0px;
 table.format
 {
 float: right;
-margin: 0px 80px 0px 0px;
+margin: 0px 4.16666vw 0px 0px;
 }
 }
 .clearfix{
@@ -111,27 +111,48 @@ margin: 0px 80px 0px 0px;
 body {
 		color: white;
 	}
+	
 div.showcase-entry img.thumbnail {
 	display: block;
-	max-width: 296px;
+	max-width: 15.416666vw;
 	margin: 0 auto 0 auto;
 
-	border: 5px solid transparent;
+	border: .2604vw solid transparent;
 	
 
 	transition: border-color 0.15s linear;
 	
 }
 div.showcase-entry a:hover img.thumbnail {
-	border: 5px solid #d30a25;
+	border: .2604vw solid #d30a25;
 }
+
+
+div.showcase-entry2 img.thumbnail2 {
+	
+	height: 13.02083vw;
+	max-width: 21.875vw;
+	margin: 0 auto 0 auto;
+
+	border: .2604vw solid transparent;
+	
+
+	transition: border-color 0.15s linear;
+	
+}
+div.showcase-entry2 a:hover img.thumbnail2 {
+	border: .2604vw solid #d30a25;
+}
+
+
+
 p.ex1 {
     margin: 0px .78vw 0px 0px;
 }
 
 p.ex {
  
-    max-width: 400px;
+    max-width: 20.833333vw;
 }
 
 
