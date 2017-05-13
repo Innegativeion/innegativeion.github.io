@@ -60,13 +60,14 @@ display: block;
 margin-left: 2.083vw; 
 }
 
-p.format
+p.format1
 {
  font-size: 1.3em;
  margin-left: .2604vw;
  display: inline-block;
  float: left;
 }
+
 p.format2
 {
 	max-width: 43.75vw;
@@ -86,6 +87,15 @@ p.format3
 	float: right;
 }
 
+p.format4
+{
+	max-width: 43.75vw;
+	font-size: 1.4em;
+	margin-right: 1.5625vw;
+	display: inline-block;
+	float: right;
+}
+
 div.floated
 {
     float: right;
@@ -93,17 +103,19 @@ div.floated
 }
 
 
-div.format
+div.format1
 {
 float: right;
-margin: 0px 21vw 0px 0px;
+margin-right: 21vw;
+text-align: center;
 }
-table.format
+
+table.format1
 {
 float: right;
 margin: 0px 4.16666vw 0px 0px;
 }
-}
+
 .clearfix{
     clear:both
 }
