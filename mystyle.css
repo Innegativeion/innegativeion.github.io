@@ -145,6 +145,7 @@ div.showcase-entry2 img.thumbnail2 {
 	height: 13.02083vw;
 	max-width: 21.875vw;
 	margin: 0 auto 0 auto;
+	float: left;
 
 	border: .2604vw solid transparent;
 	
@@ -165,6 +166,11 @@ p.ex1 {
 p.ex {
  
     max-width: 20.833333vw;
+}
+
+img.icon {
+	max-width:3vw;
+	float: middle;
 }
 
 
