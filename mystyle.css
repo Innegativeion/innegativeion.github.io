@@ -98,8 +98,16 @@ p.format4
 
 div.floated
 {
-    float: right;
+    float: left;
 	margin-right: 7.2916vw;
+	display: inline
+}
+
+div.ugh
+{
+	 position: absolute;
+	 left: 60vw;
+	 top: 12vw;
 }
 
 
