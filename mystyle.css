@@ -118,10 +118,22 @@ margin-right: 21vw;
 text-align: center;
 }
 
+div.format2
+{
+float: right;
+margin-right: 11vw;
+}
+
+
 table.format1
 {
 float: right;
-margin: 0px 4.16666vw 0px 0px;
+margin: 0px 0px 0px 0px;
+}
+table.format2
+{
+float: left;
+margin: 0vw 59vw 0vw 0vw;
 }
 
 .clearfix{
@@ -164,6 +176,13 @@ div.showcase-entry2 a:hover img.thumbnail2 {
 }
 
 
+p.STAY {
+	position: absolute;
+	left: 1vw;
+	top: 12vw;
+	font-size: 1.3em;
+	display: inline-block;
+}
 
 p.ex1 {
     margin: 0px .78vw 0px 0px;
