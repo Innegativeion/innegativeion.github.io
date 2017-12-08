@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+	<title>Animation</title>
+</head>
+
+<body>
+	<img class="header" src="pictures/backdrop.png" style="">
+	<h1 style="font-family:verdana;" style="font-size:3em;" style="text-align:center;">
+	Portfolio:<br>
+	</h1>
+	<h2 style="font-family:verdana;" style="font-size 1em;" style="text-align:center;">
+	Sprite Animation
+	</h2>
+	
+	<p class="ex1" align="right">
+		
+		<a href="index.html"><img src="pictures/_button_mywork.png" alt="Character Art and Design" style="max-width:12.8vw;"></a>
+		
+		<a href="resume.html"><img src="pictures/_button_myresume.png" alt="Character Art and Design" style="max-width:12.8vw;"></a>
+	
+		<a href="about.html"><img src="pictures/_button_aboutme.png" alt="Character Art and Design" style="max-width:12.8vw;"></a>
+	<hr>
+	</p>
+	
+	<div class="format2">
+		<img src="pictures/gifs/Sarif_attack1.gif">
+	</div>
+	<table class="format1" border="0" align="center" width="80%">
+	<caption></caption>
+	<tr>
+
+	
+	<td>
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/Sarif_Run1.gif">
+		</div>
+	</td>
+	
+	<td>
+		
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/Sarif_Idle1 - Copy.gif">
+		</div>
+	</td>
+	
+	
+	</tr><!-- --------------- -->
+	
+	</table>
+	<table class="format2" border="0" align="center" width="80%">
+
+	<tr>
+	
+	
+	<td>
+		
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/FX_Bludgeon.gif">
+		</div>
+	</td>
+	
+	<td>
+		
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/FX_Ice.gif">
+		</div>
+	</td>
+	
+	<td>
+		
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/FX_Pierce.gif">
+		</div>
+	</td>
+	
+	<td>
+		
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/FX_Slash.gif">
+		</div>
+	</td>
+	
+
+	</tr><!-- --------------- -->
+	<tr>
+	
+	<td>
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/AmberRecover.gif">
+		</div>
+	</td>
+	
+	<td>
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/AmberAttack.gif">
+		</div>
+	</td>
+	
+	<td>
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/Tensor_Angry.gif">
+		</div>
+	</td>
+	
+	<td>
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/Tensor_Attack.gif">
+		</div>
+	</td>
+	
+	</tr><!-- --------------- -->
+	<tr>
+	
+	
+	<td>
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/Vorack_Flair.gif">
+		</div>
+	</td>
+	
+	<td>
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/Allison_EntranceFlair.gif">
+		</div>
+	</td>
+	
+	<td>
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/Etna_Birth.gif">
+		</div>
+	</td>
+	
+	<td>
+		<div class="showcase-entry2">
+		<img src="pictures/gifs/Licia_Run.gif">
+		</div>
+	</td>
+	
+	
+	
+	</tr><!-- --------------- -->
+	<tr>
+	
+	
+	
+	
+	
+	
+	</tr>
+	</table>
+	
+	<div style="max-width:10.5vw;height:18.2vw;border:0.31vw outset gray;">
+	<p class="STAY"> Contact me: <br>
+		<br>
+		
+		<a href="mailto:ianjtravis@gmail.com" target="_top">
+		<img src="pictures/thumbnails/iconmail.png" alt="E-Mail" style="max-width:3.23vw;"><br>
+		Ianjtravis@gmail.com</a><br>
+		<br>
+		<br>
+		<a href="https://twitter.com/Innegativeion">
+		<img src="pictures/thumbnails/icontwitter.png" alt="Twitter" style="max-width:3.23vw;"><br>
+		@Innegativeion</a> 
+	</div>
+	</p>
+	
+</body>

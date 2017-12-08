@@ -175,6 +175,34 @@ div.showcase-entry2 a:hover img.thumbnail2 {
 	border: .2604vw solid #d30a25;
 }
 
+div.showcase-entry3 img.thumbnail3 {
+	display: block;
+	max-width: 7.416666vw;
+	margin: 0 auto 0 auto;
+
+	border: .2604vw solid transparent;
+	opacity: 100;
+
+	transition: border-color 0.15s linear;
+	
+}
+div.showcase-entry3 a:hover img.thumbnail3 {
+	border: .2604vw solid #d30a25;
+	opacity: 100;
+}
+div.showcase-entry3 img.amazingdisappearingthumbnail {
+	display: block;
+	max-width: 7.416666vw;
+	margin: 0 auto 0 auto;
+
+	border: .2604vw solid transparent;
+	opacity: 100;
+
+	transition: border-color 0.15s linear;
+}
+div.showcase-entry3 a:hover img.amazingdisappearingthumbnail {
+	opacity: 0;
+}
 
 p.STAY {
 	position: absolute;
