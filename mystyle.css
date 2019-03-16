@@ -60,6 +60,13 @@ display: block;
 margin-left: 2.083vw; 
 }
 
+p.title1
+{
+	font-size: 2em;
+	display: inline-block;
+	margin-left: 6vw;
+}
+
 p.format1
 {
  font-size: 1.3em;
