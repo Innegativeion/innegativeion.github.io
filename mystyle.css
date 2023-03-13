@@ -27,6 +27,48 @@ body
 }
 */
 
+.intro { 
+  text-align: center; 
+  font-family: Arial;
+}
+
+h2 { 
+  font-size: 36px;
+}
+
+p { 
+  font-size: 14pt;
+}
+
+#image-gallery { 
+  width: 800px; 
+  margin: 0 auto;
+}
+
+#current-image { 
+  width: 100%;
+} 
+
+#image-thumbs { 
+  display: flex; 
+  justify-content: center; 
+  margin-top: 20px;
+}
+
+#image-portrait { 
+  width: 200px; 
+  justify-content: center; 
+  margin-top: 100px;
+}
+
+.thumb { 
+  width: 80px; 
+  height: 80px; 
+  object-fit: cover; 
+  margin-right: 10px; 
+  cursor: pointer;
+}
+
 
 img.header {
     max-height: 10.729vw;
@@ -114,7 +156,7 @@ div.ugh
 {
 	 position: absolute;
 	 left: 60vw;
-	 top: 12vw;
+	 top: 14vw;
 }
 
 
