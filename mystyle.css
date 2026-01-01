@@ -69,6 +69,10 @@ p {
   cursor: pointer;
 }
 
+iframe {
+	display: block;
+	border-style:none;
+}
 
 img.header {
     max-height: 10.729vw;
